@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Abhinav Palacharla 👋
 
-<!--
-**AbhinavPalacharla/AbhinavPalacharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer based in San Diego, CA. 
 
-Here are some ideas to get you started:
+Some of my projects:
+- 🧭 [clubcompass](https://github.com/clubcompass/clubcompass.net) - An all in one club management system for highschools (in progress)
+- ☁️ [plainweather](https://github.com/AbhinavPalacharla/plainweather) - A super simple weather app built with gatsby and tailwind deployed on netlify  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My WebDev Tech Stack:
+- Nodejs
+- Javascript
+- Next.js
+- Prisma ORM
+- Supabase / DigitalOcean Postgresql DB
+- Redis
