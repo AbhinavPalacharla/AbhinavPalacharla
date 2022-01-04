@@ -1,4 +1,6 @@
-                                                           ### Hi, I'm Abhinav Palacharla 👋
+### Hi, I'm Abhinav Palacharla 👋
+
+[![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/A_Palacharla)
 
 I'm a web developer based in San Diego, CA. 
 
