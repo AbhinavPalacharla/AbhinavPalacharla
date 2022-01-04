@@ -1,6 +1,10 @@
 ### Hi, I'm Abhinav Palacharla 👋
 
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/A_Palacharla)
+[![github](https://socialize-md.vercel.app/api/badge/github)](https://github.com/AbhinavPalacharla)
+[![instagram](https://socialize-md.vercel.app/api/badge/instagram)](https://instagram.com/abhinav_p1)
+[![spotify](https://socialize-md.vercel.app/api/badge/spotify)](https://open.spotify.com/user/abhijob212)
+
 
 I'm a web developer based in San Diego, CA. 
 
