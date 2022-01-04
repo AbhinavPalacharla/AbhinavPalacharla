@@ -1,4 +1,4 @@
-### Hi, I'm Abhinav Palacharla 👋
+# Hi, I'm Abhinav Palacharla 👋
 
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/A_Palacharla)
 [![spotify](https://socialize-md.vercel.app/api/badge/spotify)](https://open.spotify.com/user/abhijob212)
