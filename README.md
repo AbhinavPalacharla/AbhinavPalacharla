@@ -17,5 +17,5 @@ My WebDev Tech Stack:
 - Javascript
 - Next.js
 - Prisma ORM
-- Supabase / DigitalOcean Postgresql DB
+- Supabase / Postgres DB
 - Redis
