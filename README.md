@@ -14,7 +14,8 @@ Some of my projects:
 
 My WebDev Tech Stack:
 - Nodejs
-- Javascript
+- Typescript / Javascript
+- GraphQL
 - Next.js
 - Prisma ORM
 - Supabase / Postgres DB
