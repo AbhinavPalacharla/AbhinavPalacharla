@@ -10,4 +10,5 @@ I'm a web developer based in San Diego, CA.
 
 Some of my projects:
 - 🧭 [clubcompass](https://github.com/clubcompass/clubcompass.net) - An all in one club management system for highschools (in progress)
-- ☁️ [plainweather](https://github.com/AbhinavPalacharla/plainweather) - A super simple weather app built with gatsby and tailwind deployed on netlify  
+- ☁️ [plainweather](https://github.com/AbhinavPalacharla/plainweather) - A super simple weather app built with gatsby and tailwind deployed on netlify
+- 🔗 [BsFTP](https://github.com/AbhinavPalacharla/bsFTP) - A barebones p2p file transfer protocol that utilies cryptographic hashing and validation from other nodes to validate transactions on the network  
