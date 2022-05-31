@@ -8,6 +8,8 @@
 I'm a web developer based in San Diego, CA. 
 
 Some of my projects:
-- 🧭 [clubcompass](https://github.com/clubcompass/clubcompass.net) - An all in one club management system for highschools (in progress)
-- ☁️ [plainweather](https://github.com/AbhinavPalacharla/plainweather) - A super simple weather app built with gatsby and tailwind deployed on netlify
-- 🔗 [bsftp](https://github.com/AbhinavPalacharla/bsFTP) - A barebones p2p file transfer protocol that utilies cryptographic hashing and validation from other nodes to validate transactions on the network  
+- 🧭 [Clubcompass](https://github.com/clubcompass/clubcompass.net) - An all in one club management system for highschools (in progress)
+- ☁️ [Plainweather](https://github.com/AbhinavPalacharla/plainweather) - A super simple weather app built with gatsby and tailwind deployed on netlify
+- 🔗 [BSFTP](https://github.com/AbhinavPalacharla/bsFTP) - A barebones p2p file transfer protocol that utilies cryptographic hashing and validation from other nodes to validate transactions on the network
+- 📝 [Citation Generator](https://github.com/AbhinavPalacharla/citation-generator) - A Raycast extension to generate MLA citations from an article link
+- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view upcoming and ongoing NBA games as well as teams standings  
