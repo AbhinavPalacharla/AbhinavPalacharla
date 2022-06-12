@@ -12,4 +12,4 @@ Some of my projects:
 - ☁️ [Plainweather](https://github.com/AbhinavPalacharla/plainweather) - A super simple weather app built with gatsby and tailwind deployed on netlify
 - 🔗 [BSFTP](https://github.com/AbhinavPalacharla/bsFTP) - A barebones p2p file transfer protocol that utilies cryptographic hashing
 - 📝 [Citation Generator](https://github.com/AbhinavPalacharla/citation-generator) - A Raycast extension to generate MLA citations from an article link
-- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view upcoming and ongoing NBA games as well as teams standings  
+- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view upcoming and ongoing NBA games as well as teams standings (190 downloads ⬇️) 
