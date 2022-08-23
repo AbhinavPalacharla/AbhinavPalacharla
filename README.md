@@ -8,7 +8,7 @@
 I'm a web developer based in San Diego, CA. 
 
 Some of my projects:
-- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view info on the NBA - ✨ Featured on store in July '22 ([285 downloads](https://www.raycast.com/AbhinavPalacharla/nba-viewer))
+- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view info on the NBA - ✨ Featured on store in July '22 ([305 downloads](https://www.raycast.com/AbhinavPalacharla/nba-viewer))
 - ☁️ [Plainweather](https://github.com/AbhinavPalacharla/plainweather) - A minimal weather app with Next.js and tRPC [deployed on vercel](https://plainweather.vercel.app)
 - 🔗 [Shortly](https://github.com/AbhinavPalacharla/shortly) - A minimal and performant link shortener built with Next.js, tRPC, Prisma, and Redis [depolyed on vercel](https://shortly-zeta.vercel.app)
 - 📝 [Citation Generator](https://github.com/AbhinavPalacharla/citation-generator) - A Raycast extension to generate MLA citations from an article link ([165 downloads](https://www.raycast.com/AbhinavPalacharla/citation-generator))
