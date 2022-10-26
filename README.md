@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Palacharla 👋
 
-## I'm a developer based in San Diego, CA / Eugene, OR.
+I'm a developer based in San Diego, CA / Eugene, OR.
 [![twitter](https://socialize-md.vercel.app/api/badge/twitter)](https://twitter.com/A_Palacharla)
 [![github](https://socialize-md.vercel.app/api/badge/github)](https://github.com/AbhinavPalacharla)
 [![discord](https://socialize-md.vercel.app/api/badge/discord)](https://discordapp.com/users/290246407145914370)
