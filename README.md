@@ -12,6 +12,8 @@ I'm a developer based in San Diego, CA / Eugene, OR.
 
 🛠 Some of my favorite tools/technologies right now: Typescript, Next.js, Prisma, TailwindCSS, tRPC, Vercel, Figma
 
+<br/>
+
 Some of my recent projects:
 - 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view info on the NBA - ✨ Featured on store in July '22 ([366 downloads](https://www.raycast.com/AbhinavPalacharla/nba-viewer))
 
