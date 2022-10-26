@@ -4,7 +4,7 @@
 [![github](https://socialize-md.vercel.app/api/badge/github)](https://github.com/AbhinavPalacharla)
 [![discord](https://socialize-md.vercel.app/api/badge/discord)](https://discordapp.com/users/290246407145914370)
 
-I'm a web developer based in San Diego, CA / Eugene, OR.
+I'm a developer based in San Diego, CA / Eugene, OR. Currently obsessed with Typescript 💙
 
 Reach out to my on twitter [@A_Palacharla](https://twitter.com/A_Palacharla) or email me at abhinav.palacharla@gmail.com
 
