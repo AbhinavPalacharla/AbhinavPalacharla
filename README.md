@@ -7,6 +7,8 @@ I'm a developer based in San Diego, CA / Eugene, OR.
 [![discord](https://socialize-md.vercel.app/api/badge/discord)](https://discordapp.com/users/290246407145914370)
 
 
+
+
 📬 Reach out to my on twitter [@A_Palacharla](https://twitter.com/A_Palacharla) or email me at abhinav.palacharla@gmail.com
 
 🛠 Some of my favorite tools/technologies right now: Typescript, Next.js, Prisma, TailwindCSS, tRPC, Vercel, Figma
