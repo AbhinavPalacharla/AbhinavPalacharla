@@ -4,7 +4,9 @@
 [![github](https://socialize-md.vercel.app/api/badge/github)](https://github.com/AbhinavPalacharla)
 [![discord](https://socialize-md.vercel.app/api/badge/discord)](https://discordapp.com/users/290246407145914370)
 
-I'm a web developer based in San Diego, CA / Eugene, OR. 
+I'm a web developer based in San Diego, CA / Eugene, OR.
+
+Reach out to my on twitter @A_Palacharla or email me at abhinav.palacharla@gmail.com
 
 Some of my recent projects:
 - 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view info on the NBA - ✨ Featured on store in July '22 ([366 downloads](https://www.raycast.com/AbhinavPalacharla/nba-viewer))
