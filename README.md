@@ -19,6 +19,8 @@ Some of my recent projects:
 
 - 🧪 [Scheme](https://github.com/AbhinavPalacharla/scheme) - An API design platform that allows teams to easily collaborate over route prototyping. Signup for the [waitlist](https://scheme-app.com)
 
+- 🔗 [Shortly](https://github.com/AbhinavPalacharla/shortly) - A minimal and performant link shortener built with Next.js, tRPC, Prisma, and Redis
+
 - ☁️ [Plainweather](https://github.com/AbhinavPalacharla/plainweather) - A minimal weather app with Next.js and tRPC [deployed on vercel](https://plainweather.vercel.app)
 
 - 📝 [Citation Generator](https://github.com/AbhinavPalacharla/citation-generator) - A Raycast extension to generate MLA citations from an article link ([237 downloads](https://www.raycast.com/AbhinavPalacharla/citation-generator))
