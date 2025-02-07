@@ -13,7 +13,7 @@ I'm a developer based in San Diego, CA.
 <br/>
 
 Some of my recent projects:
-- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view info on the NBA - ✨ Featured on store in July '22 ([~700 downloads](https://www.raycast.com/AbhinavPalacharla/nba-viewer))
+- 🏀 [NBA Viewer](https://github.com/AbhinavPalacharla/nba-game-viewer) - A Raycast extension to view info on the NBA - ✨ Featured on store in July '22 ([~1200 downloads](https://www.raycast.com/AbhinavPalacharla/nba-viewer))
 
 - 🧪 [Scheme](https://github.com/AbhinavPalacharla/scheme) - An API design platform that allows teams to easily collaborate over route prototyping.
 
@@ -21,4 +21,4 @@ Some of my recent projects:
 
 - ☁️ [Plainweather](https://github.com/AbhinavPalacharla/plainweather) - A minimal weather app with Next.js and tRPC
 
-- 📝 [Citation Generator](https://github.com/AbhinavPalacharla/citation-generator) - A Raycast extension to generate MLA citations from an article link ([237 downloads](https://www.raycast.com/AbhinavPalacharla/citation-generator))
+- 📝 [Citation Generator](https://github.com/AbhinavPalacharla/citation-generator) - A Raycast extension to generate MLA citations from an article link ([~200 downloads](https://www.raycast.com/AbhinavPalacharla/citation-generator))
