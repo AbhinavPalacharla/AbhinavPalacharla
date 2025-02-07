@@ -10,8 +10,6 @@ I'm a developer based in San Diego, CA.
 
 📬 Reach out to me on twitter [@A_Palacharla](https://twitter.com/A_Palacharla) or email me at abhinav.palacharla@gmail.com
 
-🛠 Some of my favorite tools/technologies right now: Typescript, Next.js, Prisma, TailwindCSS, tRPC, Vercel, Figma
-
 <br/>
 
 Some of my recent projects:
